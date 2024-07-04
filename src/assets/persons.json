@@ -1,0 +1,137 @@
+[
+    {
+        "id" : "1",
+        "name" : "Emma Stone",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1_.jpg",
+        "age" : "35",
+        "video" : "VdJOdZ_jSDE?si=vxf6US2M9oC4_aYN",
+        "detail": "Emily Jean Emma Stone was born on November 6, 1988 in Scottsdale, Arizona to Krista Jean Stone (née Yeager), a homemaker & Jeffrey Charles Jeff Stone, a contracting company founder and CEO. She is of Swedish, German & British Isles descent. Stone began acting as a child as a member of the Valley Youth Theatre in Phoenix, Arizona, where she made her stage debut in a production of Kenneth Grahame's The Wind in the Willows. She appeared in many productions, at the age of...",
+        "birthday" : "November 6, 1988"
+    },
+    {
+        "id" : "2",
+        "name" : "Josh Brolin",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_FMjpg_UX1000_.jpg",
+        "age" : "56",
+        "video" : "2c9fXDI2EYE?si=Mg6u98IIimZTkIw1",
+        "detail": "Rugged features and a natural charm have worked for Josh Brolin, the son of actor James Brolin. He has played roles as a policeman, a hunter, and the President of the United States.Brolin was born February 12, 1968 in Santa Monica, California, to Jane Cameron (Agee), a Texas-born wildlife activist, and James Brolin. Josh was not interested at first in the lifestyle of the entertainment business, in light of his parents' divorce, However, during junior a year in high school, he class...",
+        "birthday" : "February 12, 1968"
+    },
+    {
+        "id" : "3",
+        "name" : "Sofía Vergara",
+        "image" : "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/435166_v9_bd.jpg",
+        "age" : "51",
+        "video" : "GyQM0nD6hnw?si=sSqwfQcuHlOwH5w-",
+        "detail": "Sofía Margarita Vergara Vergara was born and raised in Barranquilla, Colombia. Her mother, Margarita Vergara Dávila de Vergara, is a housewife. Her father, Julio Enrique Vergara Robayo, provides cattle to the meat industry. She has five siblings. She was educated at a private bilingual Spanish/English school. She then went on to study pre-dentistry. However, Sofía was discovered by a photographer, whilst at the beach,television. At age 23, she was a runway model. From 1995 to...",
+        "birthday" : "July 10, 1972"
+    },
+    {
+        "id" : "4",
+        "name" : "Rachel McAdams",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMTY5ODcxMDU4NV5BMl5BanBnXkFtZTcwMjAzNjQyNQ@@._V1_.jpg",
+        "age" : "45",
+        "video" : "1FK_jc89lHU?si=19YqcZDJhbxa0pfH",
+        "detail": "Rachel Anne McAdams was born on November 17, 1978 in London, Ontario, Canada, to Sandra Kay (Gale), a nurse, and Lance Frederick McAdams, a truck driver and furniture mover. She is of English, Welsh, Irish, and Scottish descent. Rachel became involved with acting as a teenager and by the age of 13 was performing in Shakespearean productions in summer theater camp; she went on to graduate with honors with a BFA degree in Theater from York University of Disney's The Famous...",
+        "birthday" : "November 17, 1978"
+    },
+    {
+        "id" : "5",
+        "name" : "Jacob Elordi",
+        "image" : "https://assets.teenvogue.com/photos/62f28ac090e7cdc5bcca6be6/1:1/w_2400,h_2400,c_limit/GettyImages-1392678618.jpg",
+        "age" : "26",
+        "video" : "iXTrzXftRcM?si=IlgqzNrfI3w_67NM",
+        "detail": "Jacob Elordi was born on June 26, in Brisbane, Australia as Jacob Nathaniel Elordi. He is an actor known for Emerald Fennell's Saltburn (2023), the Netflix Hit The Kissing Booth (2018), and the hit HBO A24 drama series Euphoria (2019). Other titles include 2-Hearts (2019). He grew up acting in the theatre.",
+        "birthday" : "June 26, 1997"
+    },
+    {
+        "id" : "6",
+        "name" : "Jason Statham",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_FMjpg_UX1000_.jpg",
+        "age" : "56",
+        "video" : "tXg93D1QQpU?si=V-dW9FIQSTDRFUWT",
+        "detail": "Jason Statham was born in Shirebrook, Derbyshire, to Eileen (Yates), a dancer, and Barry Statham, a street merchant and lounge singer. He was a Diver on the British National Diving Team and finished twelfth in the World Championships in 1992. He has also been a fashion model, black market salesman and finally of course, actor. He received the audition for his debut role as Bacon in Lock, Stock,for whom for whom he was modeling. They became a major investor in the film...",
+        "birthday" : "July 26, 1967"
+    },
+    {
+        "id" : "7",
+        "name" : "Francis Ford Coppola",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMTM5NDU3OTgyNV5BMl5BanBnXkFtZTcwMzQxODA0NA@@._V1_FMjpg_UX1000_.jpg",
+        "age" : "56",
+        "video" : "SKY6SDDtRKA?si=M10URgXjfhe2SQVR",
+        "detail": "Francis Ford Coppola was born in 1939 in Detroit, Michigan, but grew up in a New York suburb in a creative, supportive Italian-American family. His father, Carmine Coppola, was a composer and musician. His mother, Italia Coppola (née Pennino), had been an actress. Francis Ford Coppola graduated with a degree in drama from Hofstra University, and did graduate work at UCLA in filmmaking. He was training as assistant with filmmaker Roger, sound-man, dialogue director,...",
+        "birthday" : "April 7, 1939"
+    },
+    {
+        "id" : "8",
+        "name" : "Mario Puzo",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMjE1NjkxMDE3NV5BMl5BanBnXkFtZTcwNjI0MDMyOA@@._V1_.jpg",
+        "age" : "56",
+        "video" : "-99kGFksPPY?si=TQOBmiirhWcczXOm",
+        "detail": "Mario Puzo was born October 15, 1920, in  on Manhattan's (NY) West Side and, following military service in World War II, attended New York's New School for Social Research and Columbia University. His best-known novel,  was preceded by two critically acclaimed novels,  and  In 1978, he published followed by (1984) and(1991). Mario Puzo has also written several screenplays, including Earthquake...",
+        "birthday" : "April 7, 1939"
+    },
+    {
+        "id" : "9",
+        "name" : "Marlon Brando",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMTg3MDYyMDE5OF5BMl5BanBnXkFtZTcwNjgyNTEzNA@@._V1_.jpg",
+        "age" : "56",
+        "video" : "xx5ofeqpuVo?si=szPDKzXwXsAt0QWv",
+        "detail": "Marlon Brando is widely considered the greatest movie actor of all time, rivaled only by the more theatrically oriented Laurence Olivier in terms of esteem. Unlike Olivier, who preferred the stage to the screen, Brando concentrated his talents on movies after bidding the Broadway stage adieu in 1949, a decision for which he was severely criticized when his star began to dim in the 1960s and he was excoriated for squandering his talents. nfluence on succeeding...",
+        "birthday" : "April 3, 1924"
+    },
+    {
+        "id" : "10",
+        "name" : "Al Pacino",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_FMjpg_UX1000_.jpg",
+        "age" : "56",
+        "video" : "ADuT0U4BE4k?si=sa3oOud1eruuSRKx",
+        "detail": "Alfredo James  'Pacino established himself as a film actor during one of cinema's most vibrant decades, the 1970s, and has become an enduring and iconic figure in the world of American movies.He was born April 25, 1940 in Manhattan, New York City, to Italian-American parents, Rose (nee Gerardi) and Sal Pacino. They divorced when he was young. His mother moved them into his grandparents' home in...",
+        "birthday" : "April 25, 1940"
+    },
+    {
+        "id" : "11",
+        "name" : "James Caan",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_FMjpg_UX1000_.jpg",
+        "age" : "56",
+        "video" : "gLBFE8KuIig?si=xzoU_YR5veuaS_ly",
+        "detail": "A masculine and enigmatic actor whose life and movie career have had more ups and downs than the average rollercoaster and whose selection of roles has arguably derailed him from achieving true superstar status, James Caan is New York-born and bred.He was born in the Bronx, to Sophie (Falkenstein) and Arthur Caan, Jewish immigrants from Germany. His father was a meat dealer...",
+        "birthday" : "March 26, 1940"
+    },
+    {
+        "id" : "12",
+        "name" : "Vince Vaughn",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMTQ1MDA0MzE0MF5BMl5BanBnXkFtZTYwOTUzOTI4._V1_.jpg",
+        "age" : "56",
+        "video" : "Mdt4CFhYANw?si=ganrd7kGXkAqxIC6",
+        "detail": "Vincent Anthony Vaughn was born on March 28, 1970, in Minneapolis, Minnesota, USA, and was raised in Lake Forest, Illinois. His parents are Vernon Vaughn, a salesman and character actor, and Sharon Vaughn (née Sharon Eileen DePalmo), a real-estate agent and stockbroker. They divorced in 1991. He has two...",
+        "birthday" : "March 28, 1970"
+    },
+    {
+        "id" : "13",
+        "name" : "Colin Farrell",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMTg4NzM5NDk0MV5BMl5BanBnXkFtZTcwNzAzMTUxNw@@._V1_.jpg",
+        "age" : "56",
+        "video" : "WZRN4i0mIoo?si=6bBzQYY-1sBR0fsz",
+        "detail": "Colin Farrell is one of Ireland's biggest stars in Hollywood and abroad. His film presence has been filled with memorable roles that range from an inwardly tortured hit man, to an adventurous explorer, a determined-but-failing writer, and the greatest military leader in history.Farrell was born on May 31, 1976 in  and Eamon Farrell. His father and uncle were both...",
+        "birthday" : "March 28, 1970"
+    },
+    {
+        "id" : "14",
+        "name" : "Mark Ruffalo",
+        "image" : "https://m.media-amazon.com/images/M/MV5BNWIzZTI1ODUtZTUzMC00NTdiLWFlOTYtZTg4MGZkYmU4YzNlXkEyXkFqcGdeQXVyNTExOTk5Nzg@._V1_.jpg",
+        "age" : "56",
+        "video" : "oWMW2umf41A?si=kq97Mp0eGZW44RNu",
+        "detail": "Award-winning actor Mark Ruffalo was born on November 22, 1967, in Kenosha, Wisconsin, of humble means to father Frank Lawrence Ruffalo, a construction painter and Marie Rose (Hebert), a stylist and hairdresser; his father's ancestry is Italian and his mother is of half French-Canadian and half Italian...",
+        "birthday" : "November 22, 1967"
+    },
+    {
+        "id" : "15",
+        "name" : "Willem Dafoe",
+        "image" : "https://m.media-amazon.com/images/M/MV5BOWU4MTI2OTctODQ1ZS00MGM1LWJkM2EtODE3MGNkNmIyZDEwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_FMjpg_UX1000_.jpg",
+        "age" : "56",
+        "video" : "4vltLWI9vzU?si=AeOpMOo0PerRsv93",
+        "detail": "Having made over one hundred films in his legendary career, Willem Dafoe is internationally respected for bringing versatility, boldness, and daring to some of the most iconic films of our time. His artistic curiosity in exploring the human condition leads him to projects all over the world, large and small, Hollywood...",
+        "birthday" : "July 22, 1955"
+    }
+]

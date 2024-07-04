@@ -1,0 +1,80 @@
+[
+    {
+        "id" : "1",
+        "name" : "The Godfather",
+        "image" : "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "video" : "UaVTIH8mujA?si=jBXOGjGgxHpclX9t",
+        "detail" : "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "rating" : "9.2",
+        "popularity" :"87",
+        "human": "2M",
+        "director": ["Francis Ford Coppola"],
+        "writers": ["Mario Puzo", "Francis Ford Coppola"],
+        "stars": ["Marlon Brando","Al Pacino","James Caan"]
+    },
+    {
+        "id" : "2",
+        "name" : "True Detective",
+        "image" : "https://m.media-amazon.com/images/M/MV5BNTEzMzBiNGYtYThiZS00MzBjLTk5ZWItM2FmMzU3Y2RjYTVlXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+        "video" : "WAuUdt9mrGw?si=0kW3mG_F_W7tvbmF",
+        "detail" : "Anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+        "rating" : "8.9",
+        "popularity" :"1",
+        "human": "641K",
+        "director": ["Francis Ford Coppola"],
+        "writers": ["Mario Puzo","Francis Ford Coppola"],
+        "stars": ["Vince Vaughn","Colin Farrell","Rachel McAdams"]     
+    },
+    {
+        "id" : "3",
+        "name" : "Poor Things",
+        "image" : "https://m.media-amazon.com/images/M/MV5BNGIyYWMzNjktNDE3MC00YWQyLWEyMmEtN2ZmNzZhZDk3NGJlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+        "video" : "RlbR5N6veqw?si=dvOmcwZ_ru7eIq7C",
+        "detail" : "The incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.",
+        "rating" : "8.4",
+        "popularity" :"3",
+        "human": "97K",
+        "director": ["Francis Ford Coppola"],
+        "writers": ["Mario Puzo","Francis Ford Coppola"],
+        "stars": ["Emma Stone","Mark Ruffalo","Willem Dafoe"]
+    },
+    {
+        "id" : "4",
+        "name" : "Griselda",
+        "image" : "https://m.media-amazon.com/images/M/MV5BNTZlNjRiOGYtZjVlYy00Y2Y2LThjNmItNmVkY2U0ZjVjOGU4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+        "video" : "wcF0A-Gy-Ng?si=CuYe-KxdxsAGFGnA",
+        "detail" : "Fleeing from Medellín to Miami, Griselda Blanco creates one of the most ruthless cartels in history.",
+        "rating" : "7.3",
+        "popularity" :"7",
+        "human": "27K",
+        "director": ["Francis Ford Coppola"],
+        "writers": ["Emma Stone","Francis Ford Coppola"],
+        "stars": ["Sofía Vergara","Al Pacino","James Caan"]
+    },
+    {
+        "id" : "5",
+        "name" : "Saltburn",
+        "image" : "https://m.media-amazon.com/images/M/MV5BM2NmMDQ1ZWEtNDU4OS00MGIxLWEyMGMtMTM2YmFkYzNhYmMxXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+        "video" : "lALMdJf6UUE?si=DEIKcQHDsNLby0xZ",
+        "detail" : "A student at Oxford University finds himself drawn into the world of a charming and aristocratic classmate, who invites him to his eccentric family's sprawling estate for a summer never to be forgotten.",
+        "rating" : "7.0",
+        "popularity" :"15",
+        "human": "175K",
+        "director": ["Francis Ford Coppola"],
+        "writers": ["Mario Puzo"],
+        "stars": ["Jacob Elordi","Al Pacino","James Caan"]
+    },
+    {
+        "id" : "6",
+        "name" : "The Beekeeper",
+        "image" : "https://m.media-amazon.com/images/M/MV5BZDkwOTIyZGQtYWNkOS00YzAxLTkwZWUtMzU3YjU4ZDIyYzdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "video" : "iq1HdW5_ZYc?si=jLw4z-0RxBEK_tyu",
+        "detail" : "One man's brutal campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+        "rating" : "6.4",
+        "popularity" :"9",
+        "human": "54K",
+        "director": ["Francis Ford Coppola"],
+        "writers": ["Mario Puzo","Francis Ford Coppola"],
+        "stars": ["Jason Statham","Al Pacino","James Caan"]
+    }
+]
