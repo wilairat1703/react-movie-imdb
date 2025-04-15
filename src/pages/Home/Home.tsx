@@ -46,7 +46,7 @@ function HomePage() {
               md={0.05}
               sx={{ backgroundColor: "#FCCA18", height: 30, mt: 3 }}
             ></Grid>
-            <Grid item md={5} sx={{ ml: 2 }}>
+            <Grid item md={5} sx={{ ml: 2, color:"#FCCA18" }}>
               <h2>Top 10 on IMDb this week</h2>
             </Grid>
           </Grid>
@@ -153,7 +153,7 @@ function HomePage() {
                 xs={0.05}
                 sx={{ backgroundColor: "#FCCA18", height: 30, mt: 3 }}
               ></Grid>
-              <Grid item xs={11} sx={{ ml: 2 }}>
+              <Grid item xs={11} sx={{ ml: 2, color:"#FCCA18" }}>
                 <h2>Born today</h2>
               </Grid>
             </Grid>
